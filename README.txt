@@ -1,4 +1,4 @@
-This Java application contains a console to allow users to submit & read posts thier own posts, 
+This Java application contains a console to allow users to submit & read posts their own posts, 
 follow other users and view their wall, which will display all of their own posts and posts from users they are following.
 
 The commands needs to entered as follows:
